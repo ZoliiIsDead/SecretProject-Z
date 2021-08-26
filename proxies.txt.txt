@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/MyDebounce/MyDebounce/main/proxies.txt
+https://raw.githubusercontent.com/Moonshine-Discord/MyDebounce/main/proxies.txt.txt
 lax-a09.ipvanish.com:1080:n8LzQUHmSb:qewEiT9ibC
 mia-a31.ipvanish.com:1080:NdVYOZFgdTk:EN6YaHYZpE
 fra-a25.ipvanish.com:1080:n8LzQUHmSb:qewEiT9ibC
